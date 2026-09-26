@@ -604,3 +604,6 @@
 2026-09-26T22:15:17.825Z once: done, 0 failure(s)
 2026-09-26T22:28:12.215Z LIVE worker started → /home/runner/work/switch-rounds/switch-rounds/data (once)
 2026-09-26T22:28:13.493Z once: done, 0 failure(s)
+2026-09-26T23:14:24.436Z LIVE worker started → /home/runner/work/switch-rounds/switch-rounds/data (once)
+2026-09-26T23:14:54.079Z round 119 exit 0 budget $5.56 · eligible 2 · excluded 23 (AAPL:stale-oracle, AMD:stale-oracle, AMZN:stale-oracle, BABA:stale-oracle, COIN:stale-oracle, CRWV:stale-oracle, DELL:stale-oracle, GME:stale-oracle, GOOGL:stale-oracle, INTC:stale-oracle, MSFT:stale-oracle, MSTR:stale-oracle, MU:stale-oracle, NVDA:stale-oracle, PLTR:stale-oracle, RKLB:stale-oracle, SGOV:low-volume, SNDK:stale-oracle, SPCX:stale-oracle, SPY
+2026-09-26T23:14:55.007Z once: done, 0 failure(s)
