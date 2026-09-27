@@ -644,3 +644,9 @@
 2026-09-27T06:20:36.344Z once: done, 0 failure(s)
 2026-09-27T06:35:25.255Z LIVE worker started → /home/runner/work/switch-rounds/switch-rounds/data (once)
 2026-09-27T06:35:26.409Z once: done, 0 failure(s)
+2026-09-27T07:15:25.815Z LIVE worker started → /home/runner/work/switch-rounds/switch-rounds/data (once)
+2026-09-27T07:16:21.693Z round 127 exit 1 /home/runner/work/switch-rounds/switch-rounds/dapp/node_modules/viem/utils/errors/getContractError.ts:82 |   return new ContractFunctionExecutionError(cause as BaseError, { | ContractFunctionExecutionError: RPC Request failed. |   function:  budget() |     at getContractError (/home/runner/work/switch-rounds/switch-rounds/dapp/node_modules/viem/utils/errors/getContractError.ts:82:10) |     at asyn
+2026-09-27T07:17:34.747Z round 127 exit 1 /home/runner/work/switch-rounds/switch-rounds/dapp/node_modules/viem/utils/errors/getContractError.ts:82 |   return new ContractFunctionExecutionError(cause as BaseError, { | ContractFunctionExecutionError: RPC Request failed. |     at getContractError (/home/runner/work/switch-rounds/switch-rounds/dapp/node_modules/viem/utils/errors/getContractError.ts:82:10) |   cause: CallExecutionError: RPC Re
+2026-09-27T07:19:47.785Z round 127 exit 1 /home/runner/work/switch-rounds/switch-rounds/dapp/node_modules/viem/utils/errors/getContractError.ts:82 |   return new ContractFunctionExecutionError(cause as BaseError, { | ContractFunctionExecutionError: RPC Request failed. |     at getContractError (/home/runner/work/switch-rounds/switch-rounds/dapp/node_modules/viem/utils/errors/getContractError.ts:82:10) |   cause: CallExecutionError: RPC Re
+2026-09-27T07:22:47.871Z round 127 failed 3 times
+2026-09-27T07:22:48.641Z once: done, 1 failure(s)
