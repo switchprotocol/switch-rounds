@@ -650,3 +650,6 @@
 2026-09-27T07:19:47.785Z round 127 exit 1 /home/runner/work/switch-rounds/switch-rounds/dapp/node_modules/viem/utils/errors/getContractError.ts:82 |   return new ContractFunctionExecutionError(cause as BaseError, { | ContractFunctionExecutionError: RPC Request failed. |     at getContractError (/home/runner/work/switch-rounds/switch-rounds/dapp/node_modules/viem/utils/errors/getContractError.ts:82:10) |   cause: CallExecutionError: RPC Re
 2026-09-27T07:22:47.871Z round 127 failed 3 times
 2026-09-27T07:22:48.641Z once: done, 1 failure(s)
+2026-09-27T07:29:13.994Z LIVE worker started → /home/runner/work/switch-rounds/switch-rounds/data (once)
+2026-09-27T07:29:55.362Z round 127 exit 0 budget $5.58 · eligible 0 · excluded 24 (AAPL:stale-oracle, AMD:stale-oracle, AMZN:stale-oracle, BABA:stale-oracle, COIN:stale-oracle, CRCL:stale-oracle, DELL:stale-oracle, GME:stale-oracle, GOOGL:stale-oracle, INTC:stale-oracle, META:stale-oracle, MSFT:stale-oracle, MSTR:stale-oracle, MU:stale-oracle, NBIS:stale-oracle, NVDA:stale-oracle, ORCL:stale-oracle, PLTR:stale-oracle, SGOV:stale-oracle, S
+2026-09-27T07:29:56.207Z once: done, 0 failure(s)
