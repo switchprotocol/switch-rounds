@@ -989,3 +989,5 @@
 2026-09-29T07:18:01.247Z LIVE worker started → /home/runner/work/switch-rounds/switch-rounds/data (once)
 2026-09-29T07:18:25.576Z round 175 exit 0 budget $6.81 · eligible 5 · excluded 2 (GME:low-volume, SNDK:low-volume) | ROLLED: budget-floor
 2026-09-29T07:18:26.949Z once: done, 0 failure(s)
+2026-09-29T07:32:41.871Z LIVE worker started → /home/runner/work/switch-rounds/switch-rounds/data (once)
+2026-09-29T07:32:42.987Z once: done, 0 failure(s)
