@@ -1047,3 +1047,6 @@
 2026-09-29T18:36:35.892Z LIVE worker started → /home/runner/work/switch-rounds/switch-rounds/data (once)
 2026-09-29T18:36:47.543Z 18:36:38 push batch 31 leaves 1–40 of 236: sent 0x40c624d038b68be3b3f9d53735c50954e3666e77d6d93634435f37a52459c2dc | 18:36:40 push batch 31 leaves 1–40 of 236: confirmed in block 75876300, gas 3199899 | 18:36:40 push batch 31 leaves 41–80 of 236: sent 0x1a56eb6d8799465fae9a2030ef72a2678a5ec3e4b47098455ccee18a8a44ba60 | 18:36:41 push batch 31 leaves 41–80 of 236: confirmed in block 75876324, gas 31
 2026-09-29T18:36:47.543Z once: done, 0 failure(s)
+2026-09-29T19:16:53.180Z LIVE worker started → /home/runner/work/switch-rounds/switch-rounds/data (once)
+2026-09-29T19:17:13.131Z round 187 exit 0 budget $11.94 · eligible 4 · excluded 1 (GME:low-volume) | ROLLED: budget-floor
+2026-09-29T19:17:13.920Z once: done, 0 failure(s)
