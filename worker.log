@@ -981,3 +981,6 @@
 2026-09-29T06:29:10.557Z round 174 failed 3 times
 2026-09-29T06:29:51.284Z push run exit 1 /home/runner/work/switch-rounds/switch-rounds/dapp/node_modules/viem/utils/errors/getContractError.ts:82 |   return new ContractFunctionExecutionError(cause as BaseError, { | ContractFunctionExecutionError: The contract function "push" reverted. | Error: ExceedsAcquired(address instrument, uint256 attempted, uint256 acquired) |     at getContractError (/home/runner/work/switch-rounds/switch-rounds
 2026-09-29T06:29:51.285Z once: done, 1 failure(s)
+2026-09-29T06:32:29.758Z LIVE worker started → /home/runner/work/switch-rounds/switch-rounds/data (once)
+2026-09-29T06:33:09.008Z 06:33:05 push batch 27 leaves 1–20 of 20: sent 0x1df8fe4eb7997f1c16ccd9d8cc3f9648623518a0b5c797120911ef9272ab6144 | 06:33:06 push batch 27 leaves 1–20 of 20: confirmed in block 75444789, gas 1250530 | PUSHED batch 27: 20 leaves in 1 tx (320 were already pushed) · 1 leaves permanently stuck under this batch's already-committed root (see worker.log for which) | 06:33:07 push batch 28 leaves 1–40 of 
+2026-09-29T06:33:09.008Z once: done, 0 failure(s)
