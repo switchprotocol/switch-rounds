@@ -1181,3 +1181,7 @@
 2026-10-01T06:02:39.558Z round 221 exit 0 budget $12.01 · eligible 4 · excluded 1 (GME:low-volume) | ROLLED: budget-floor
 2026-10-01T06:02:55.806Z round 222 exit 0 budget $12.01 · eligible 4 · excluded 1 (GME:low-volume) | ROLLED: budget-floor
 2026-10-01T06:02:57.019Z once: done, 0 failure(s)
+2026-10-01T08:38:14.186Z LIVE worker started → /home/runner/work/switch-rounds/switch-rounds/data (once)
+2026-10-01T08:38:29.943Z round 223 exit 0 budget $11.88 · eligible 4 · excluded 1 (GME:low-volume) | ROLLED: budget-floor
+2026-10-01T08:38:46.936Z round 224 exit 0 budget $11.88 · eligible 4 · excluded 1 (GME:low-volume) | ROLLED: budget-floor
+2026-10-01T08:38:47.662Z once: done, 0 failure(s)
