@@ -1245,3 +1245,7 @@
 2026-10-02T20:34:31.443Z round 259 exit 0 budget $11.84 · eligible 5 · excluded 0 () | ROLLED: budget-floor
 2026-10-02T20:34:57.547Z round 260 exit 0 budget $11.84 · eligible 5 · excluded 0 () | ROLLED: budget-floor
 2026-10-02T20:34:58.988Z once: done, 0 failure(s)
+2026-10-02T23:00:28.749Z LIVE worker started → /home/runner/work/switch-rounds/switch-rounds/data (once)
+2026-10-02T23:01:11.794Z round 261 exit 0 budget $11.78 · eligible 5 · excluded 0 () | ROLLED: budget-floor
+2026-10-02T23:02:05.351Z round 262 exit 0 budget $11.78 · eligible 3 · excluded 2 (MSTR:low-volume, SPCX:low-volume) | ROLLED: budget-floor
+2026-10-02T23:02:06.928Z once: done, 0 failure(s)
