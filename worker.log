@@ -1364,3 +1364,10 @@
 2026-10-05T22:36:23.764Z round 324 failed 3 times
 2026-10-05T22:36:24.577Z push run exit 1   if (tree.root !== b[0]) throw new Error(`batch ${batch}: local root ${tree.root} differs from committed ${b[0]}`); | Error: batch 54: local root 0xd079fd4651be8de397fbccbf3d7afc36044d1d946df3b3b1fca11a9a261eb44f differs from committed 0xd087fcaed30aabcb4ef8b377d090f671aa9a8a658618bea0984fff30464a8a3e
 2026-10-05T22:36:24.577Z once: done, 1 failure(s)
+2026-10-05T22:41:39.057Z LIVE worker started → /home/runner/work/switch-rounds/switch-rounds/data (once)
+2026-10-05T22:42:03.699Z round 325 exit 1   if (tree.root !== b[0]) throw new Error(`batch ${batch}: local root ${tree.root} differs from committed ${b[0]}`); | Error: batch 54: local root 0xd079fd4651be8de397fbccbf3d7afc36044d1d946df3b3b1fca11a9a261eb44f differs from committed 0xd087fcaed30aabcb4ef8b377d090f671aa9a8a658618bea0984fff30464a8a3e
+2026-10-05T22:43:29.337Z round 325 exit 1   if (tree.root !== b[0]) throw new Error(`batch ${batch}: local root ${tree.root} differs from committed ${b[0]}`); | Error: batch 54: local root 0xd079fd4651be8de397fbccbf3d7afc36044d1d946df3b3b1fca11a9a261eb44f differs from committed 0xd087fcaed30aabcb4ef8b377d090f671aa9a8a658618bea0984fff30464a8a3e
+2026-10-05T22:45:54.861Z round 325 exit 1   if (tree.root !== b[0]) throw new Error(`batch ${batch}: local root ${tree.root} differs from committed ${b[0]}`); | Error: batch 54: local root 0xd079fd4651be8de397fbccbf3d7afc36044d1d946df3b3b1fca11a9a261eb44f differs from committed 0xd087fcaed30aabcb4ef8b377d090f671aa9a8a658618bea0984fff30464a8a3e
+2026-10-05T22:48:54.961Z round 325 failed 3 times
+2026-10-05T22:48:56.308Z push run exit 1   if (tree.root !== b[0]) throw new Error(`batch ${batch}: local root ${tree.root} differs from committed ${b[0]}`); | Error: batch 54: local root 0xd079fd4651be8de397fbccbf3d7afc36044d1d946df3b3b1fca11a9a261eb44f differs from committed 0xd087fcaed30aabcb4ef8b377d090f671aa9a8a658618bea0984fff30464a8a3e
+2026-10-05T22:48:56.308Z once: done, 1 failure(s)
