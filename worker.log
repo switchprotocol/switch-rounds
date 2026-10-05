@@ -1343,3 +1343,11 @@
 2026-10-05T00:40:07.578Z once: done, 0 failure(s)
 2026-10-05T00:59:06.218Z LIVE worker started → /home/runner/work/switch-rounds/switch-rounds/data (once)
 2026-10-05T00:59:10.824Z once: done, 0 failure(s)
+2026-10-05T06:44:13.931Z LIVE worker started → /home/runner/work/switch-rounds/switch-rounds/data (once)
+2026-10-05T06:48:46.987Z round 313 exit 0 budget $12.00 · eligible 4 · excluded 1 (GME:low-volume) | ROLLED: budget-floor
+2026-10-05T06:52:55.238Z round 314 exit 0 budget $12.00 · eligible 3 · excluded 2 (GME:low-volume, META:low-volume) | ROLLED: budget-floor
+2026-10-05T06:57:16.463Z round 315 exit 0 budget $12.00 · eligible 4 · excluded 1 (GME:low-volume) | ROLLED: budget-floor
+2026-10-05T07:01:40.636Z round 316 exit 0 budget $12.07 · eligible 4 · excluded 1 (GME:low-volume) | ROLLED: budget-floor
+2026-10-05T07:05:45.627Z round 317 exit 0 budget $12.07 · eligible 4 · excluded 1 (GME:low-volume) | ROLLED: budget-floor
+2026-10-05T07:09:47.216Z round 318 exit 0 budget $12.07 · eligible 4 · excluded 1 (GME:low-volume) | ROLLED: budget-floor
+2026-10-05T07:09:51.248Z once: done, 0 failure(s)
