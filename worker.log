@@ -1584,3 +1584,5 @@
 2026-10-10T18:23:55.925Z round 449 exit 0 budget $1.67 · eligible 1 · excluded 4 (GME:low-volume, META:low-volume, NVDA:stale-oracle, SPCX:low-volume) | ROLLED: budget-floor
 2026-10-10T18:24:10.384Z round 450 exit 0 budget $1.67 · eligible 1 · excluded 4 (GME:low-volume, META:low-volume, NVDA:stale-oracle, SPCX:low-volume) | ROLLED: budget-floor
 2026-10-10T18:24:11.602Z once: done, 0 failure(s)
+2026-10-10T18:39:49.341Z LIVE worker started → /home/runner/work/switch-rounds/switch-rounds/data (once)
+2026-10-10T18:39:50.475Z once: done, 0 failure(s)
