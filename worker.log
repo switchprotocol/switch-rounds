@@ -1918,3 +1918,8 @@
 2026-10-18T08:45:37.796Z round 631 exit 0 budget $1.61 · eligible 0 · excluded 5 (GME:stale-oracle, META:stale-oracle, MSTR:stale-oracle, NVDA:stale-oracle, SPCX:stale-oracle) | ROLLED: empty-set
 2026-10-18T08:45:55.757Z round 632 exit 0 budget $1.61 · eligible 0 · excluded 5 (GME:stale-oracle, META:stale-oracle, MSTR:stale-oracle, NVDA:stale-oracle, SPCX:stale-oracle) | ROLLED: empty-set
 2026-10-18T08:45:56.670Z once: done, 0 failure(s)
+2026-10-18T11:13:08.596Z LIVE worker started → /home/runner/work/switch-rounds/switch-rounds/data (once)
+2026-10-18T11:13:36.059Z round 633 exit 0 budget $1.61 · eligible 0 · excluded 5 (GME:stale-oracle, META:stale-oracle, MSTR:stale-oracle, NVDA:stale-oracle, SPCX:stale-oracle) | ROLLED: empty-set
+2026-10-18T11:14:01.460Z round 634 exit 0 budget $1.61 · eligible 0 · excluded 5 (GME:stale-oracle, META:stale-oracle, MSTR:stale-oracle, NVDA:stale-oracle, SPCX:stale-oracle) | ROLLED: empty-set
+2026-10-18T11:14:26.278Z round 635 exit 0 budget $1.61 · eligible 0 · excluded 5 (GME:stale-oracle, META:stale-oracle, MSTR:stale-oracle, NVDA:stale-oracle, SPCX:stale-oracle) | ROLLED: empty-set
+2026-10-18T11:14:27.955Z once: done, 0 failure(s)
