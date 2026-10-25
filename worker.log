@@ -2224,3 +2224,6 @@
 2026-10-24T23:03:39.901Z once: done, 0 failure(s)
 2026-10-24T23:18:28.719Z LIVE worker started → /home/runner/work/switch-rounds/switch-rounds/data (once)
 2026-10-24T23:18:30.130Z once: done, 0 failure(s)
+2026-10-25T01:01:04.331Z LIVE worker started → /home/runner/work/switch-rounds/switch-rounds/data (once)
+2026-10-25T01:01:22.224Z round 792 exit 0 budget $1.57 · eligible 0 · excluded 5 (GME:stale-oracle, META:stale-oracle, MSTR:stale-oracle, NVDA:stale-oracle, SPCX:stale-oracle) | ROLLED: empty-set
+2026-10-25T01:01:23.533Z once: done, 0 failure(s)
