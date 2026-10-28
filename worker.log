@@ -2394,3 +2394,9 @@
 2026-10-28T21:11:00.031Z round 884 exit 0 budget $1.58 · eligible 4 · excluded 1 (GME:low-volume) | ROLLED: budget-floor
 2026-10-28T21:11:52.862Z round 885 exit 0 budget $1.58 · eligible 4 · excluded 1 (GME:low-volume) | ROLLED: budget-floor
 2026-10-28T21:11:58.620Z once: done, 0 failure(s)
+2026-10-28T23:03:24.284Z LIVE worker started → /home/runner/work/switch-rounds/switch-rounds/data (once)
+2026-10-28T23:03:39.773Z round 886 exit 1 /home/runner/work/switch-rounds/switch-rounds/dapp/node_modules/viem/utils/errors/getContractError.ts:82 |   return new ContractFunctionExecutionError(cause as BaseError, { | ContractFunctionExecutionError: Execution reverted with reason: gas required exceeds allowance (59536). |     at getContractError (/home/runner/work/switch-rounds/switch-rounds/dapp/node_modules/viem/utils/errors/getContractE
+2026-10-28T23:04:51.930Z round 886 exit 1 /home/runner/work/switch-rounds/switch-rounds/dapp/node_modules/viem/utils/errors/getContractError.ts:82 |   return new ContractFunctionExecutionError(cause as BaseError, { | ContractFunctionExecutionError: Execution reverted with reason: gas required exceeds allowance (47881). |     at getContractError (/home/runner/work/switch-rounds/switch-rounds/dapp/node_modules/viem/utils/errors/getContractE
+2026-10-28T23:08:19.036Z round 886 exit 1 /home/runner/work/switch-rounds/switch-rounds/dapp/node_modules/viem/utils/errors/getContractError.ts:82 |   return new ContractFunctionExecutionError(cause as BaseError, { | ContractFunctionExecutionError: Execution reverted with reason: gas required exceeds allowance (59750). |     at getContractError (/home/runner/work/switch-rounds/switch-rounds/dapp/node_modules/viem/utils/errors/getContractE
+2026-10-28T23:11:19.105Z round 886 failed 3 times
+2026-10-28T23:11:21.642Z once: done, 1 failure(s)
