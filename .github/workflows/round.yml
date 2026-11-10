@@ -69,6 +69,16 @@ jobs:
           NODE_OPTIONS: --dns-result-order=ipv4first
         run: npx tsx scripts/shadow-worker.mts
 
+      # SwitchLock wind-down: send any tranche whose 60-day lock has elapsed to the ops wallet.
+      # Permissionless call; the worker key only pays gas. No-op until a tranche is unlocked.
+      - name: Release unlocked SwitchLock tranches
+        if: always()
+        working-directory: dapp
+        env:
+          WORKER_PRIVATE_KEY: ${{ secrets.WORKER_PRIVATE_KEY }}
+          NODE_OPTIONS: --dns-result-order=ipv4first
+        run: npx tsx scripts/release-lock.mts
+
       - name: Commit round files
         if: always()
         working-directory: data
