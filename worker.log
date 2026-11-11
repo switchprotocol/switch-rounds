@@ -3139,3 +3139,34 @@
 2026-11-11T09:39:46.195Z round 1043 exit 0 budget $1.37 · eligible 4 · excluded 1 (GME:low-volume) | ROLLED: budget-floor
 2026-11-11T09:42:00.728Z round 1044 exit 0 budget $1.37 · eligible 4 · excluded 1 (GME:low-volume) | ROLLED: budget-floor
 2026-11-11T09:44:12.282Z round 1045 exit 0 budget $1.37 · eligible 5 · excluded 0 () | ROLLED: budget-floor
+2026-11-11T15:17:29.068Z LIVE worker started → /home/runner/work/switch-rounds/switch-rounds/data (once)
+2026-11-11T15:18:57.423Z round 1046 exit 0 budget $1.38 · eligible 4 · excluded 1 (GME:low-volume) | ROLLED: budget-floor
+2026-11-11T15:20:22.029Z round 1047 exit 0 budget $1.38 · eligible 4 · excluded 1 (GME:low-volume) | ROLLED: budget-floor
+2026-11-11T15:21:44.571Z round 1048 exit 0 budget $1.38 · eligible 5 · excluded 0 () | ROLLED: budget-floor
+2026-11-11T15:23:09.453Z round 1049 exit 0 budget $1.38 · eligible 4 · excluded 1 (GME:low-volume) | ROLLED: budget-floor
+2026-11-11T15:24:20.030Z round 1050 exit 0 budget $1.38 · eligible 4 · excluded 1 (GME:low-volume) | ROLLED: budget-floor
+2026-11-11T15:25:41.274Z round 1051 exit 0 budget $1.37 · eligible 4 · excluded 1 (GME:low-volume) | ROLLED: budget-floor
+2026-11-11T15:27:00.366Z round 1052 exit 0 budget $1.37 · eligible 4 · excluded 1 (GME:low-volume) | ROLLED: budget-floor
+2026-11-11T15:28:19.147Z round 1053 exit 0 budget $1.37 · eligible 4 · excluded 1 (GME:low-volume) | ROLLED: budget-floor
+2026-11-11T15:29:35.010Z round 1054 exit 0 budget $1.37 · eligible 4 · excluded 1 (GME:low-volume) | ROLLED: budget-floor
+2026-11-11T15:30:50.948Z round 1055 exit 0 budget $1.37 · eligible 3 · excluded 2 (GME:low-volume, META:low-volume) | ROLLED: budget-floor
+2026-11-11T15:32:12.255Z round 1056 exit 0 budget $1.37 · eligible 2 · excluded 3 (GME:low-volume, META:low-volume, SPCX:low-volume) | ROLLED: budget-floor
+2026-11-11T15:33:37.268Z round 1057 exit 0 budget $1.37 · eligible 3 · excluded 2 (GME:low-volume, META:low-volume) | ROLLED: budget-floor
+2026-11-11T15:34:51.519Z round 1058 exit 0 budget $1.37 · eligible 4 · excluded 1 (GME:low-volume) | ROLLED: budget-floor
+2026-11-11T15:36:07.685Z round 1059 exit 0 budget $1.38 · eligible 4 · excluded 1 (GME:low-volume) | ROLLED: budget-floor
+2026-11-11T15:37:20.304Z round 1060 exit 0 budget $1.38 · eligible 3 · excluded 2 (GME:low-volume, SPCX:low-volume) | ROLLED: budget-floor
+2026-11-11T15:38:39.823Z round 1061 exit 0 budget $1.39 · eligible 4 · excluded 1 (GME:low-volume) | ROLLED: budget-floor
+2026-11-11T15:39:52.403Z round 1062 exit 0 budget $1.39 · eligible 4 · excluded 0 () | ROLLED: budget-floor
+2026-11-11T15:41:07.872Z round 1063 exit 0 budget $1.39 · eligible 4 · excluded 0 () | ROLLED: budget-floor
+2026-11-11T15:42:19.576Z round 1064 exit 0 budget $1.39 · eligible 4 · excluded 1 (GME:low-volume) | ROLLED: budget-floor
+2026-11-11T15:43:42.318Z round 1065 exit 0 budget $1.39 · eligible 3 · excluded 2 (GME:low-volume, SPCX:low-volume) | ROLLED: budget-floor
+2026-11-11T15:44:57.730Z round 1066 exit 0 budget $1.39 · eligible 4 · excluded 1 (GME:low-volume) | ROLLED: budget-floor
+2026-11-11T15:46:18.395Z round 1067 exit 0 budget $1.39 · eligible 4 · excluded 0 () | ROLLED: budget-floor
+2026-11-11T15:47:29.523Z round 1068 exit 0 budget $1.39 · eligible 4 · excluded 0 () | ROLLED: budget-floor
+2026-11-11T15:48:43.743Z round 1069 exit 0 budget $1.39 · eligible 4 · excluded 1 (GME:low-volume) | ROLLED: budget-floor
+2026-11-11T15:49:58.098Z round 1070 exit 0 budget $1.39 · eligible 4 · excluded 1 (GME:low-volume) | ROLLED: budget-floor
+2026-11-11T15:51:15.759Z round 1071 exit 0 budget $1.39 · eligible 4 · excluded 1 (GME:low-volume) | ROLLED: budget-floor
+2026-11-11T15:52:38.952Z round 1072 exit 0 budget $1.39 · eligible 5 · excluded 0 () | ROLLED: budget-floor
+2026-11-11T15:53:44.439Z round 1073 exit 0 budget $1.39 · eligible 4 · excluded 1 (GME:low-volume) | ROLLED: budget-floor
+2026-11-11T15:54:51.404Z round 1074 exit 0 budget $1.39 · eligible 4 · excluded 1 (GME:low-volume) | ROLLED: budget-floor
+2026-11-11T15:55:51.291Z round 1075 exit 0 budget $1.39 · eligible 4 · excluded 1 (GME:low-volume) | ROLLED: budget-floor
