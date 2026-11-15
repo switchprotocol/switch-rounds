@@ -3432,3 +3432,8 @@
 2026-11-14T22:29:39.976Z LIVE worker started → /home/runner/work/switch-rounds/switch-rounds/data (once)
 2026-11-14T22:29:58.303Z round 1294 exit 0 budget $1.18 · eligible 3 · excluded 2 (GME:low-volume, META:stale-oracle) | ROLLED: budget-floor
 2026-11-14T22:30:00.518Z once: done, 0 failure(s)
+2026-11-15T01:38:56.746Z LIVE worker started → /home/runner/work/switch-rounds/switch-rounds/data (once)
+2026-11-15T01:39:17.039Z round 1295 exit 0 budget $1.15 · eligible 3 · excluded 2 (GME:low-volume, META:stale-oracle) | ROLLED: budget-floor
+2026-11-15T01:39:36.921Z round 1296 exit 0 budget $1.15 · eligible 2 · excluded 3 (GME:stale-oracle, META:stale-oracle, SPCX:low-volume) | ROLLED: budget-floor
+2026-11-15T01:39:56.556Z round 1297 exit 0 budget $1.15 · eligible 0 · excluded 5 (GME:stale-oracle, META:stale-oracle, MSTR:stale-oracle, NVDA:stale-oracle, SPCX:stale-oracle) | ROLLED: empty-set
+2026-11-15T01:39:59.282Z once: done, 0 failure(s)
